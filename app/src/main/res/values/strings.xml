@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RedPaketAutoPick</string>
+    <string name="description">descripe red packet pick function</string>
 </resources>
